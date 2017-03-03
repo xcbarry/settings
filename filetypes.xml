@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="so" type="ARCHIVE" />
+      <mapping pattern="num" type="PLAIN_TEXT" />
+      <mapping ext="dex" type="PLAIN_TEXT" />
+      <mapping ext="arsc" type="PLAIN_TEXT" />
+      <removed_mapping ext="so" type="UNKNOWN" />
+      <mapping ext="wav" type="YouTrack" />
+    </extensionMap>
+  </component>
+</application>
