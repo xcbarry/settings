@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="aar" type="ARCHIVE" />
-      <mapping ext="so" type="ARCHIVE" />
       <mapping pattern="num" type="PLAIN_TEXT" />
       <mapping ext="arsc" type="PLAIN_TEXT" />
       <mapping ext="dex" type="PLAIN_TEXT" />
