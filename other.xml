@@ -103,6 +103,7 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天android版/trunk/TtkApplication" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天android2.0版本/branches/TTkAndroid-K2" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天app/trunk" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/壹米滴答/trunk/yimi-bar" />
@@ -114,7 +115,7 @@
     </option>
     <option name="myTypedURLs">
       <list>
-        <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天android2.0版本/branches/TTkAndroid-K2" />
+        <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天android版/trunk/TtkApplication" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/天天app/trunk" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/壹米滴答/trunk/yimi-bar" />
         <option value="http://192.168.1.253:8080/svn/嵌入式软件/Andrioid/public/壹米滴答/branches/壹米源代码/bar" />
