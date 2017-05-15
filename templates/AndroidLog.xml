@@ -1,0 +1,11 @@
+<templateSet group="AndroidLog">
+  <template name="loge" value="android.util.Log.e(TAG, &quot;$METHOD_NAME$: $content$&quot;);" description="Log.e(TAG, String, Exception)" toReformat="true" toShortenFQNames="true">
+    <variable name="METHOD_NAME" expression="methodName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="logt" value="private static final String TAG = $className$.class.getName();" description="A static logtag with your current classname" toReformat="true" toShortenFQNames="true">
+    <variable name="className" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
