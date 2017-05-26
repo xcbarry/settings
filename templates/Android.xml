@@ -76,7 +76,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="Constructor" value="public $classname$(){}" description="构造器" toReformat="false" toShortenFQNames="true">
+  <template name="con" value="//do not use&#10;private $classname$(){}" description="私有构造器" toReformat="false" toShortenFQNames="true">
     <variable name="classname" expression="className()" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
